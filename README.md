@@ -1,5 +1,5 @@
 # THANKSGIVING DINNER ANALYSIS
-- We hava a survey that contains answers from people about their thanksgiving dinners
+- We have a survey that contains answers from people about their thanksgiving dinners
 - The analysis contains:
   - Description of age data
   - Estimation of distance that different income groups travel
